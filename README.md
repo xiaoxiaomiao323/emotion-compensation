@@ -28,7 +28,7 @@ Audio samples can be found here: https://xiaoxiaomiao323.github.io/ohnn-emo-audi
 
 `bash scripts/install.sh`
 
-`bash demo.sh` this will use original data as input, please download savee and IEMOCAP original dataset and change data/*/wav.scp to your data directory before you run this command.
+`bash 01_demo.sh` this will use original data as input, please download savee and IEMOCAP original dataset and change data/*/wav.scp to your data directory before you run this command.
 
 
 
