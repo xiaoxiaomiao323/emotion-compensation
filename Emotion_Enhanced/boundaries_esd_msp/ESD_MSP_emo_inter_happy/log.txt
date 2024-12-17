@@ -1,7 +1,0 @@
-[2024-12-17 03:08:19,401][INFO] Loading latent codes.
-[2024-12-17 03:08:19,401][INFO] Loading attribute scores.
-[2024-12-17 03:08:19,922][INFO] Filtering training data.
-[2024-12-17 03:08:19,938][INFO] Spliting training and validation sets:
-[2024-12-17 03:08:19,961][INFO]   Training: 4915 positive, 15323 negative.
-[2024-12-17 03:08:19,967][INFO]   Validation: 1229 positive, 3831 negative.
-[2024-12-17 03:08:19,967][INFO] Training boundary.
